@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-</head>
-<body>
+# Tangled
 
-<h1>Tangled</h1>
-
-   <h3><a href="Chapter01.md">Chapter 1</a></ahref></h3>
+[Chapter 1](Chapter01.md)
     
-</body>
-</html>
