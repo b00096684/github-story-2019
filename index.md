@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
 </head>
 <body>
 
@@ -10,7 +9,7 @@
 
 <ul>
 
-    <l1><h3><a href="Chapter01.html">Chapter 1</a></ahref></h3></l1>
+    <l1><h3><a href="Chapter01.md">Chapter 1</a></ahref></h3></l1>
     
 
 </ul>

@@ -1,4 +1,4 @@
 # Tangled
-[Homepage](index.html)
+[Homepage](index.md)
 ### Chapters:
-[Chapter 1](Chapter01.html)
+[Chapter 1](Chapter01.md)
