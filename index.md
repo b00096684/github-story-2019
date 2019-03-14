@@ -7,11 +7,9 @@
 
 <h1>Tangled</h1>
 
-<ul>
 
-    <li><h3><a href="Chapter01.md">Chapter 1</a></ahref></h3></li>
+    <h3><a href="Chapter01.md">Chapter 1</a></ahref></h3>
     
 
-</ul>
 </body>
 </html>
