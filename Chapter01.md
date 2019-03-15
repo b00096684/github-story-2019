@@ -7,5 +7,6 @@ It was a beautiful Spring day. Rapunzel, who her whole life was forced to stay i
 At 8AM, a thief called Flynn Rider, a handsome, cocky man, had broken into a castle to steal the treasure inside. Flynn stood on the roof of the castle, in awe at the beauty of the land. "Someday.." Flynn conversed with himself, "I'll have a castle like this of my own." Flynn had smoothly stolen the treasure within his chosen heist spot and fled.<br><br>
 Rapunzel heard her mother call from the bottom of their home, a tower standing over 40 meters tall. Gothel had never allowed Rapunzel to cut her hair, as it had mystical properties that allowed Gothel to stay young forever. Using her hair, which had never been cut in Repunzel's near 18 year life, Repunzel lowered her hair from the top of the tower down to the ground, allowing Gothel to step on and be raised up. Repunzel told Gothel that for her birthday, Repunzel wanted to see the lanterns that are lit and sent to the sky every year on her birthday. Gothel denied the request, and told Repunzel to never ask her to go outside again. Repunzel was depressed, and Gothel left again.<br><br>
 
+[Next](Chapter02.md)
 
 [Back to Home](https://b00096684.github.io/github-story-2019/)
