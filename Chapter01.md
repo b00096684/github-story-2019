@@ -11,6 +11,6 @@ At 8AM, a thief called Flynn Rider, a handsome, cocky man, had broken into a cas
 
 Rapunzel heard her mother call from the bottom of their home, a tower standing over 40 meters tall. Gothel had never allowed Rapunzel to cut her hair, as it had mystical properties that allowed Gothel to stay young forever. Rapunzel lowered her hair from the top of the tower down to the ground, allowing Gothel to step on and be raised up. Rapunzel told Gothel that for her birthday, Rapunzel wanted to see the lanterns that are lit and sent to the sky every year on her birthday. Gothel denied the request, and told Rapunzel to never ask her to go outside again. Rapunzel was upset by this, and Gothel left again.<br><br>
 
-[Next](Chapter02.md)
+* [Next](Chapter02.md)
 
-[Back to Home](https://b00096684.github.io/github-story-2019/)
+* [Back to Home](https://b00096684.github.io/github-story-2019/)

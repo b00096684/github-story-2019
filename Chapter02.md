@@ -12,6 +12,6 @@ With this, Rapunzel finally had the confidence to step outside the tower. Her fe
 Guards from the Kingdom of Corona arrive at the pub with the horse that had been tracking Flynn. Walking nearby, Gothel notices the commotion at the pub and takes a look. She is horrified to see Rapunzel out of the tower. One thug from the pub shows Flynn and Rapunzel a secret exit, which they use to escape the guards searching for Flynn. However, it did not take long for the horse to get Flynn's scent, and the secret exit was uncovered. Threatened that her secret to eternal life may be compromised, Gothel demanded to know the exit point of the secret exit. On her way to the other side, Gothel overheard the Stabbington Brothers discussing Flynn and the woman he was with. Recognising the description of the woman as Rapunzel, Gothel recruited the Stabbington Brothers as she could help them get back the crown and get their revenge on Flynn.
 
 
-[Previous](Chapter01.md)
+* [Previous](Chapter01.md)
 
-[Back to Home](https://b00096684.github.io/github-story-2019/)
+* [Back to Home](https://b00096684.github.io/github-story-2019/)
