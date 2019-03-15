@@ -1,5 +1,7 @@
 # Tangled
 
+![Tangled](https://ohmy.disney.com/wp-content/uploads/2013/07/Tangled-Header.jpg)
+
 ## Chapter 2
 
 
