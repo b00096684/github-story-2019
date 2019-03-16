@@ -8,3 +8,5 @@
 * [Chapter 1](Chapter01.md)
 
 * [Chapter 2](Chapter02.md)
+
+* [Chapter 3](Chapter03.md)
