@@ -2,7 +2,7 @@
 
 ![Tangled](https://ohmy.disney.com/wp-content/uploads/2013/07/Tangled-Header.jpg)
 
-## Chapter 2
+## Chapter 2 - The Pub
 
 
 During his escape, Flynn had stumbled upon Rapunzel's tower. Desperate to lose the horse that was chasing him, Flynn climbed the tower and found his way into Rapunzel's bedroom. Rapunzel hid when she heard noise outside and managed to stay hidden long enough to get behind Flynn and hit him in the back of the head with a frying pan, knocking him out. Rapunzel used her hair to tie Flynn to a chair. When Flynn awoke, he tried to charm Rapunzel into letting him go. Rapunzel however was stubborn, and told Flynn that she would let him go and give the stolen crown back to him if he agreed to chaperone Rapunzel to the Kingdom to see the lanterns. Flynn reluctantly agreed.

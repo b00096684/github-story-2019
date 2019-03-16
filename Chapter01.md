@@ -2,7 +2,7 @@
 
 ![Tangled](https://ohmy.disney.com/wp-content/uploads/2013/07/Tangled-Header.jpg)
 
-## Chapter 1
+## Chapter 1 - Rapunzel and Flynn Rider
 
 
 It was a beautiful Spring day. Rapunzel, who her whole life was forced to stay indoors by her mother, was as eager as always to step outside her home and bask in the beauty of nature. However, Rapunzel's mother, Gothel,  didn't see it this way. To keep her child safe, Gothel had told her the outside was too dangerous, and forbid her from leaving home. Not knowing any better, Rapunzel trusted her mother's judgement. "Mother knows best," Rapunzel had been told her whole life, "Mother knows best..."

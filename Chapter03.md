@@ -2,7 +2,7 @@
 
 ![Tangled](https://ohmy.disney.com/wp-content/uploads/2013/07/Tangled-Header.jpg)
 
-## Chapter 3
+## Chapter 3 - The Kingdom of Corona
 
 Flynn and Rapunzel had managed to escape the guards for the time being. The two found a secluded spot to set up camp for the night. During their frantic escape from the guards, Flynn had cut his hand open on a sharp stone wall. Knowing about her hair’s mystical properties, Rapunzel whispered to Flynn “Don’t freak out.” Rapunzel wrapped a small section of her hair around Flynn’s hand and began to sing:
 
