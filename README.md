@@ -45,3 +45,4 @@
 * Added story to Chapter04.md
 * Updated navigation on to include Chapter04
 * Updated README.md with changes for March 17
+* Added overview to index.md
