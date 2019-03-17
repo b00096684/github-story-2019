@@ -1,4 +1,5 @@
 # Tangled
+## B00096684 Dillon Hanna
 
 ![Tangled](https://ohmy.disney.com/wp-content/uploads/2013/07/Tangled-Header.jpg)
 
@@ -10,6 +11,8 @@
 * [Chapter 2 - The Pub](Chapter02.md)
 
 * [Chapter 3 - The Kingdom of Corona](Chapter03.md)
+
+* [Chapter 4 - Eugene](Chapter04.md)
 
 
 ## Changes by Day:
@@ -36,3 +39,9 @@
 * Updated navigation on all pages
 * Added titles to all chapters
 * Updated README.md with list of daily changes
+
+### March 17, 2019
+* Created Chapter04.md
+* Added story to Chapter04.md
+* Updated navigation on to include Chapter04
+* Updated README.md with changes for March 17
