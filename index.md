@@ -7,4 +7,6 @@
 * [Chapter 2 - The Pub](Chapter02.md)
 
 * [Chapter 3 - The Kingdom of Corona](Chapter03.md)
+
+* [Chapter 4 - Eugene](Chapter04.md)
     

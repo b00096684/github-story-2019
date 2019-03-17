@@ -31,6 +31,8 @@ Flynn awoke to the horse from the Kingdom of Corona that had been tracking him f
 Rapunzel sees a mural on a wall in the city. The mural is of the King, Queen and missing Princess of Corona. The King and Queen are dressed regally, and the baby has long, bright blonde hair. Rapunzel is dragged into a dance in the middle of town. As she is enjoying herself, she invites Flynn to dance with her. Flynn passes with a head shake but is pushed into the crowd by the horse. Flynn and Rapunzel dance together, their bond growing closer in the process.
 
 
+* [Next](Chapter04.md)
+
 * [Previous](Chapter02.md)
 
 * [Back to Home](https://b00096684.github.io/github-story-2019/)
