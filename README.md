@@ -54,3 +54,5 @@
 * Added story to Chapter045.md
 * Updated navigation on to include Chapter05
 * Updated README.md with changes for March 18
+* Added alternative_ending branch
+* Updated navigations for alternative_ending branch
