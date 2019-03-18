@@ -14,6 +14,8 @@
 
 * [Chapter 4 - Eugene](Chapter04.md)
 
+* [Chapter 5 - Good Ending](Chapter05.md)
+
 
 ## Changes by Day:
 ### March 14, 2019
@@ -46,3 +48,9 @@
 * Updated navigation on to include Chapter04
 * Updated README.md with changes for March 17
 * Added overview to index.md
+
+### March 18, 2019
+* Created Chapter05.md
+* Added story to Chapter045.md
+* Updated navigation on to include Chapter05
+* Updated README.md with changes for March 18
