@@ -11,4 +11,6 @@ Tangled is a 2010 animated film produced by Walt Disney Animation Studios. The s
 * [Chapter 3 - The Kingdom of Corona](Chapter03.md)
 
 * [Chapter 4 - Eugene](Chapter04.md)
+
+* [Chapter 5 - Good Ending](Chapter05.md)
     
