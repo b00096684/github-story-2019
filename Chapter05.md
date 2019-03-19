@@ -4,9 +4,8 @@
 
 ## Chapter 5 - Ending
 
-Eugene and Rapunzel returned to Corona to meet with the King and Queen, Rapunzel’s true parents. They lovingly embraced. Rapunzel had finally taken her rightful place as Princess of Corona. As for Eugene, he was cleared of all charges and him and Rapunzel married not long after.
 
-The two lovingly lived Happily Ever After.
+After defeating Gothel and returning to the Kingdom of Corona, Eugene and Rapunzel requested a meeting with the King and Queen. The guards of the Kingdom instantly recognise Eugene as Flynn Rider, the thief who stole the lost Princess’ crown and staged a prison escape. The guards refused to hear his story and executed Eugene. Rapunzel was adamant that she was the lost princess, but the guards would not hear her story. Everyone in the Kingdom knew that the lost princess had long, golden hair, not short, brown hair. Rapunzel was tried and executed for impersonating royalty, and the never-ending search for the lost princess continued. The horse was also executed for staging a prison escape and was fed to the guards for a job well done.
 
 
 * [Previous](Chapter04.md)
