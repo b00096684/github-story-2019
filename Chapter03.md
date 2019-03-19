@@ -36,3 +36,15 @@ Rapunzel sees a mural on a wall in the city. The mural is of the King, Queen and
 * [Previous](Chapter02.md)
 
 * [Back to Home](https://b00096684.github.io/github-story-2019/)
+
+### Links to all chapters
+
+* [Chapter 1 - Rapunzel and Flynn Rider](Chapter01.md)
+
+* [Chapter 2 - The Pub](Chapter02.md)
+
+* [Chapter 3 - The Kingdom of Corona](Chapter03.md)
+
+* [Chapter 4 - Eugene](Chapter04.md)
+
+* [Chapter 5 - Good Ending](Chapter05.md)

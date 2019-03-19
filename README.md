@@ -56,3 +56,6 @@
 * Updated README.md with changes for March 18
 * Added alternative_ending branch
 * Updated navigations for alternative_ending branch
+
+### March 19, 2019
+* Added links to every chapter on every page
