@@ -26,4 +26,4 @@ Rapunzel heard her mother call from the bottom of their home, a tower standing o
 
 * [Chapter 4 - Eugene](Chapter04.md)
 
-* [Chapter 5 - Good Ending](Chapter05.md)
+* [Chapter 5 - Ending](Chapter05.md)

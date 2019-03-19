@@ -27,4 +27,4 @@ Guards from the Kingdom of Corona arrive at the pub with the horse that had been
 
 * [Chapter 4 - Eugene](Chapter04.md)
 
-* [Chapter 5 - Good Ending](Chapter05.md)
+* [Chapter 5 - Ending](Chapter05.md)

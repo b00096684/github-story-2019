@@ -26,4 +26,4 @@ The day of Eugene’s execution had arrived. Eugene had noticed the Stabbington 
 
 * [Chapter 4 - Eugene](Chapter04.md)
 
-* [Chapter 5 - Good Ending](Chapter05.md)
+* [Chapter 5 - Ending](Chapter05.md)

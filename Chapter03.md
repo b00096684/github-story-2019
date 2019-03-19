@@ -47,4 +47,4 @@ Rapunzel sees a mural on a wall in the city. The mural is of the King, Queen and
 
 * [Chapter 4 - Eugene](Chapter04.md)
 
-* [Chapter 5 - Good Ending](Chapter05.md)
+* [Chapter 5 - Ending](Chapter05.md)

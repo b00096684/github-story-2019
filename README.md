@@ -51,11 +51,11 @@
 
 ### March 18, 2019
 * Created Chapter05.md
-* Added story to Chapter045.md
+* Added story to Chapter05.md
 * Updated navigation on to include Chapter05
 * Updated README.md with changes for March 18
-* Added alternative_ending branch
-* Updated navigations for alternative_ending branch
+
 
 ### March 19, 2019
 * Added links to every chapter on every page
+* Added alternative_ending branch
